@@ -1,4 +1,4 @@
-## Developed a deep learning model using convolutional neural networks and TensorFlow to classify images into different groups and make predictions. 
+## A deep learning model using convolutional neural networks and TensorFlow to classify images into different groups and make predictions. 
 * The model was trained with the cross-validation technique.
 * TensorFlow, TensorBoard (for optimizing the model), and cloud computing (Google Colab) were used.
 
